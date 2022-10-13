@@ -35,6 +35,11 @@ public class First {
 		
 		System.out.println(9*3);
 		
+		System.out.println("8*2" + "=" + (8*2));
+		
+		System.out.println("snow" + "ball");
+		
+		
 		
 		
 
